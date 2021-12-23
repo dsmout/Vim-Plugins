@@ -1,2 +1,2 @@
-# Vim-Plugins
-My Vim plugins configuration
+# neovim-init
+My neovim configuration
